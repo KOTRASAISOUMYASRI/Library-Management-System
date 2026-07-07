@@ -8,6 +8,16 @@ This project was developed as part of my undergraduate coursework to demonstrate
 
 ---
 
+## Learning Outcomes
+
+This project helped me gain practical experience with:
+
+- Python programming
+- MySQL database connectivity using PyMySQL
+- CRUD operations
+- Menu-driven application development
+- Data visualization using Matplotlib
+
 ## Features
 
 - Add new books to the library database
